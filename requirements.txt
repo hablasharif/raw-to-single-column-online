@@ -1,5 +1,8 @@
-streamlit
+aiolimiter
+pip==24.0
+aiohttp
+asyncio
+BeautifulSoup4
+pyperclip
+cachetools
 lxml
-pandas
-pip install --upgrade pip
-
