@@ -1,5 +1,5 @@
 streamlit
 lxml
 pandas
-pip install -r requirements.txt
+pip install --upgrade pip
 
